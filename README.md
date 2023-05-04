@@ -96,6 +96,7 @@ Salida (return):
 - La función deberá retornar la palabra secreta seleccionada por el random.choice.
 
 
+
 ### Funcion "pedir_letra"
 Encabezado de la función:
 ```python
